@@ -1,0 +1,7 @@
+"D:\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -G "Visual Studio 16 2019" -S C:\Users\amin\Desktop\test\FREERTOS_CLion -B C:\Users\amin\Desktop\test\FREERTOS_CLion\cmake-build-release-visual-studio
+-- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22624.
+Value of FREERTOS_DIR: D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS
+Value of FREERTOS_SOURCES: D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/croutine.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/event_groups.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/list.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/queue.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/stream_buffer.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/tasks.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/timers.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/portable/MemMang/heap_3.c;D:/tools/code/c/FreeRTOSv202012.00/FreeRTOS/Source/portable/MSVC-MingW/port.c
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/amin/Desktop/test/FREERTOS_CLion/cmake-build-release-visual-studio
